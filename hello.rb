@@ -1,1 +1,4 @@
-Kernel.puts("hello world")
+str='test'
+for i in str
+	puts i
+end
